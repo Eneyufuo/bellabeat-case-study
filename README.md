@@ -1,1 +1,1 @@
-# case-study-bellabeat
+# bellabeat-case-study
